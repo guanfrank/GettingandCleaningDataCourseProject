@@ -97,9 +97,3 @@ This code book summarizes the resulting data fields in `tidy.txt`.
 * `SITTING` (value `4`): subject was sitting during the test
 * `STANDING` (value `5`): subject was standing during the test
 * `LAYING` (value `6`): subject was laying down during the test
----
-"Code Book"
-author: "Frank Guan"
-date: "September 10, 2016"
-output: html_document
----
