@@ -8,13 +8,13 @@ A Fast Fourier Transform (FFT) was applied to some of these signals producing fB
 
 ## Identifiers
 
-* `subject` - The ID of the test subject
+* `subject` - The ID of the test subject(volunteer)
 * `activity` - The type of activity performed when the corresponding measurements were taken
 
 ## Measurements
 Description of abbreviations of measurements
 
-leading t or f is based on time or frequency measurements. Body = related to body movement. Gravity = acceleration of gravity Acc = accelerometer measurement Gyro = gyroscopic measurements Jerk = sudden movement acceleration Mag = magnitude of movement mean and Std are calculated for each subject for each activity for each mean and Std measurements. The units given are g's for the accelerometer and rad/sec for the gyro and g/sec and rad/sec/sec for the corresponding jerks.
+leading t or f is based on time or frequency measurements. Body = related to body movement. Gravity = acceleration of gravity Acc = accelerometer measurement Gyro = gyroscopic measurements Jerk = sudden movement acceleration Mag = magnitude of movement mean and Std are calculated for each subject for each activity for each mean and Std measurements. The units given are g's for the accelerometer and rad/sec for the gyro and g/sec and rad/sec for the corresponding jerks.
 
 These signals were used to estimate variables of the feature vector for each pattern: '-XYZ' is used to denote 3-axial signals in the X, Y and Z directions. They total 33 measurements including the 3 dimensions - the X,Y, and Z axes.
 
